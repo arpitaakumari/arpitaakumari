@@ -7,14 +7,8 @@ I am Arpita Kumari, currently a 4th year undergraduate at IIEST, Shibpur.
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on IMPROVING MY DSA SKILLS.
-
-<!--
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on SANKE GAME USING OBJECT DETECTION API.
+- 🌱 I’m currently learning Data Structures and Algorithms.
+- 👯 I’m looking to collaborate on Projects related to AI and photography.
+- 🤔 I’m looking for help with Publishing my projects on web.
+- 📫 How to reach me: arpita.2001kumari@gmail.com
