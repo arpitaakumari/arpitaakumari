@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Arpita Kumari, currently a 4th year undergraduate at IIEST, Shibpur.
+I am Arpita Kumari, working as a software developer at Oracle.
 
 <!--
 **arpitaakumari/arpitaakumari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
